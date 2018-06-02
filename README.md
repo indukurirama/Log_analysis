@@ -41,4 +41,4 @@ In this project by using a Python program and the psycopg2 module to connect to 
 
 * Run your python file by python filename.py .
 ### Output:
-![log.png]()
+![log.png](https://github.com/indukurirama/Log_analysis/blob/master/pic2.png)
