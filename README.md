@@ -40,3 +40,5 @@ In this project by using a Python program and the psycopg2 module to connect to 
 * psql -d news -f newsdata.sql .
 
 * Run your python file by python filename.py .
+### Output:
+![log.png]()
